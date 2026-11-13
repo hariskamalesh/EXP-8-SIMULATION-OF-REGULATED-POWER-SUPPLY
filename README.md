@@ -33,7 +33,8 @@ Procedure
 ________________________________________
 Observation
 
-<img width="1920" height="421" alt="Screenshot (62) obs" src="https://github.com/user-attachments/assets/45230b4b-3780-4d70-bdd7-e4dcb4336058" />
+<img width="1920" height="576" alt="Screenshot (61) ob" src="https://github.com/user-attachments/assets/88d11ac8-9736-4cba-a2a5-841105cddf72" />
+
 
 
 
@@ -50,7 +51,8 @@ The Zener diode regulator and load are connected. A stable regulated DC output i
 ________________________________________
 Result
 
-<img width="1920" height="556" alt="Screenshot (62) res" src="https://github.com/user-attachments/assets/f929869a-79f2-46b9-b86c-1de7bcd2f06f" />
+<img width="1920" height="459" alt="Screenshot (61) res" src="https://github.com/user-attachments/assets/bbbae4ac-39ae-46c1-a638-611c785b35aa" />
+
 
 
 Thus, the regulated power supply was simulated using LTspice. The output waveform at each stage was observed and analysed, and a stable regulated DC output was obtained at the load. 
