@@ -33,7 +33,8 @@ Procedure
 ________________________________________
 Observation
 
-<img width="1920" height="559" alt="Screenshot (62) obs" src="https://github.com/user-attachments/assets/163b8d50-9858-42de-8db9-7a530f16879c" />
+<img width="1920" height="421" alt="Screenshot (62) obs" src="https://github.com/user-attachments/assets/45230b4b-3780-4d70-bdd7-e4dcb4336058" />
+
 
 
 1. AC Input Waveform
